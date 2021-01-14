@@ -5,11 +5,11 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>IntigriAPIAssignment</groupId>
-	<artifactId>IntigriAPIAssignment</artifactId>
+	<groupId>BackendAPIAssignment</groupId>
+	<artifactId>BackendAPIAssignment</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
-	<name>IntigriAPIAssignment</name>
+	<name>BackendAPIAssignment</name>
 	<!-- FIXME change it to the project's website -->
 	<url>http://www.example.com</url>
 
